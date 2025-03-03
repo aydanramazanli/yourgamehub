@@ -1,0 +1,108 @@
+.about-section {
+  padding: 32px 0;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  gap: 24px;
+  width: 90%;
+  margin: auto;
+}
+.card-title{
+  color:black;
+}
+/* Image */
+.aboutcomponent-content{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+width: 100%;
+}
+.about-image-content {
+  width: 100%;
+  max-width: 100%;
+  text-align: center;
+}
+.about-image1 {
+  width: 90%;
+  height: auto;
+}
+/* Text */
+.about-text-content {
+  width: 100%;
+}
+.about-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+.about-title > span {
+  position: relative;
+}
+.about-title span::before {
+  content: "";
+  position: absolute;
+  width: 75%;
+  height: 4px;
+  background-color: #ffb84c;
+  border-radius: 8px;
+  left: 0;
+  bottom: -12px;
+}
+.about-description {
+  margin: 32px 0;
+  color: white;
+
+  font-size: 18px;
+  letter-spacing: 0.7px;
+  line-height: 1.7rem;
+}
+.about-text-title {
+  margin: 0 0 24px 0;
+  color: white;
+
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+/* Steps */
+.about-text-step {
+  margin: 16px 0;
+}
+.about-text-sTitle {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+  color: white;
+}
+.about-text-description {
+  margin: 8px 24px;
+  color: white;
+
+  letter-spacing: 0.7px;
+  line-height: 1.6rem;
+}
+.fa-icon {
+  color: #ffb84c;
+}
+/* Responsive */
+@media screen and (max-width: 1000px) {
+  .aboutcomponent-content{
+    width: 100%;
+  }
+  .about-section {
+    display: block;
+  }
+  .about-image-content {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 32px 0;
+  }
+  .about-image1 {
+    width: 100%;
+    height: 100%;
+  }
+  .about-text-content {
+    width: 100%;
+  }
+}

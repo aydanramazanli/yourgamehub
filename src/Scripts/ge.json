@@ -1,0 +1,170 @@
+{
+    "navbar": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "privacy": "Datenschutzerklärung",
+      "cookies": "Cookies",
+      "terms": "Allgemeine Geschäftsbedingungen",
+      "aboutCasinos": "Spieleführer"
+    },
+  
+    "about": {
+      "nav": "Über uns",
+      "title": "DIE BELIEBTESTEN SOCIAL CASINO SPIELE AN EINEM ORT!",
+      "free": "Kostenlos spielen!",
+      "about-text": "Ohne Download können Sie jetzt Ihr Lieblings-Spielautomatenspiel kostenlos von jedem Gerät aus spielen! Melden Sie sich einfach mit Ihrer E-Mail-Adresse an und los geht's! Entdecken Sie den Nervenkitzel ohne Umstände!"
+    },
+  
+    "contact": {
+      "title": "Bei Fragen können Sie uns jederzeit unter support@mygaminggalaxy.com kontaktieren",
+      "button": "Absenden"
+    },
+  
+    "footer": {
+      "footer-text": "ist nur für Personen ab 18 Jahren zu Unterhaltungszwecken gedacht und bietet kein 'Echtgeld'-Glücksspiel oder die Möglichkeit, echtes Geld oder echte Preise basierend auf dem Spielverlauf zu gewinnen. Das Spielen oder der Erfolg in diesem Spiel impliziert keinen zukünftigen Erfolg beim 'Echtgeld'-Glücksspiel. Für mygaminggalaxyund den Zugriff auf seine sozialen Funktionen benötigen Sie möglicherweise eine Internetverbindung. Weitere Informationen über die Funktionalität, Kompatibilität und Interoperabilität von mygaminggalaxyfinden Sie in der obigen Beschreibung. Durch den Zugriff auf und das Spielen dieser Spiele stimmen Sie zukünftigen Spielaktualisierungen zu, die auf dieser Website veröffentlicht werden.",
+      "list-name": "Seiten",
+      "footer-email": "Newsletter abonnieren",
+      "address": "E-Mail-Adresse eingeben"
+    },
+  
+    "games": {
+      "title": "Top kostenlose Spielautomaten",
+      "games-text": "Spielen Sie aufregende Social Casino Spiele kostenlos!",
+      "play-button": "Jetzt spielen"
+    },
+  
+    "heros": {
+      "title": "DAS BESTE KOSTENLOSE SPIELAUTOMATEN-CASINO!",
+      "description": "Das beste Spielautomatenspiel, verfügbar direkt von Ihrem Smartphone aus! Möchten Sie den Nervenkitzel eines Las Vegas Casinos genießen, aber von der Behaglichkeit Ihres eigenen Zuhauses aus? Dann sind Sie hier genau richtig! Mit über 150 KOSTENLOSEN Spielautomaten, unzähligen Funktionen und hunderten von Preisen bietet Ihnen mygaminggalaxystundenlange KOSTENLOSE Unterhaltung!",
+      "title01": "Treue",
+      "desc01": "Jedes Mal, wenn Sie mygaminggalaxyspielen, kommen Ihre Belohnungen und Ihre Vorteile wachsen! Während Sie durch verschiedene Mitgliedschaftsstufen aufsteigen, genießen Sie exklusiven Zugang zu unserer VIP-Erfahrung. Sie qualifizieren sich auch für noch mehr kostenlose Geschenke und genießen höhere Münzbelohnungen!",
+      "title02": "Kostenlos spielen",
+      "desc": "Bei mygaminggalaxykönnen Sie kein echtes Geld gewinnen. Sie können jedoch Ihren Reichtum und Münzen verdienen und Ihre Münzen für alle unsere Spielautomaten verwenden! Sie können mygaminggalaxyvöllig kostenlos spielen! Keine Downloads, Käufe oder Mitgliedschaften erforderlich!"
+    },
+  
+    "stats": {
+      "item1": "Tägliche Spieler",
+      "item2": "Mitarbeiter",
+      "item3": "Tägliche Auszeichnungen"
+    },
+  
+    "subcribe": {
+      "succes": "Erfolgreich gesendet!",
+      "error": "Ungültige E-Mail-Adresse!"
+    },
+  
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "text": "Die angeforderte URL wurde auf diesem Server nicht gefunden"
+    },
+  
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "content1": "Bei mygaminggalaxyhat die Privatsphäre und Sicherheit unserer Besucher und Nutzer oberste Priorität. Diese Datenschutzerklärung beschreibt, wie wir Informationen sammeln, verwenden und schützen, die Sie während der Nutzung unserer Website zur Verfügung stellen.",
+      "title02": "Informationssammlung und -nutzung",
+      "content02": "Wir sammeln keine persönlichen Informationen von unseren Besuchern oder Nutzern. Sie können unsere Website anonym durchsuchen, ohne persönliche Daten angeben zu müssen.",
+      "title04": "Datensicherheit",
+      "content05": "Obwohl wir keine Benutzerdaten sammeln, ergreifen wir angemessene Maßnahmen, um die Sicherheit unserer Website zu gewährleisten und sie vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung von Informationen zu schützen, die wir nicht sammeln.",
+      "title05": "Kinderdatenschutz",
+      "content06": "Unsere Website richtet sich nicht an Personen unter 18 Jahren. Wir sammeln wissentlich keine persönlichen Informationen von Kindern. Wenn Sie glauben, dass wir möglicherweise persönliche Informationen von einem Kind unter 18 Jahren gesammelt haben, kontaktieren Sie uns bitte umgehend, und wir werden geeignete Schritte unternehmen, um solche Informationen aus unseren Aufzeichnungen zu entfernen.",
+      "title06": "Änderungen dieser Datenschutzerklärung",
+      "content07": "Wir verwenden keine Cookies oder andere Tracking-Technologien auf unserer Website.",
+      "title07": "Datensicherheit",
+      "content08": "Wir behalten uns das Recht vor, unsere Datenschutzerklärung jederzeit zu aktualisieren oder zu ändern. Alle Änderungen werden auf dieser Seite veröffentlicht, und das Datum des Inkrafttretens wird entsprechend aktualisiert. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig auf Updates oder Änderungen zu überprüfen.",
+      "title08": "Kontaktieren Sie uns",
+      "content09": "Wenn Sie Fragen oder Bedenken zu unserer Datenschutzerklärung haben, kontaktieren Sie uns bitte unter support@mygaminggalaxy.com."
+    },
+  
+    "terms": {
+      "title": "Allgemeine Geschäftsbedingungen",
+      "sections": {
+        "1": {
+          "title": "1. Annahme der Bedingungen",
+          "content": "Willkommen bei MyGamingGalaxy. Diese Allgemeinen Geschäftsbedingungen legen die Regeln und Vorschriften für die Nutzung der Website von mygaminggalaxyfest. Durch den Zugriff auf diese Website gehen wir davon aus, dass Sie diese Bedingungen vollständig akzeptieren. Nutzen Sie die Website von mygaminggalaxynicht weiter, wenn Sie nicht alle auf dieser Seite aufgeführten Geschäftsbedingungen akzeptieren."
+        },
+        "2": {
+          "title": "2. Beschreibung der Dienste",
+          "content": "mygaminggalaxybietet Zugang zu Produktbewertungen, Vergleichen und Empfehlungen. Unsere Seite zielt darauf ab, Benutzern durch umfassende Analyse und Expertenmeinungen bei informierten Kaufentscheidungen zu helfen."
+        },
+        "3": {
+          "title": "3. Altersbeschränkungen",
+          "content": "Diese Website ist für Personen ab 18 Jahren bestimmt. Durch die Nutzung der Website bestätigen Sie, dass Sie mindestens 18 Jahre alt sind. Benutzern unter 18 Jahren ist der Zugriff auf die auf dieser Website angebotenen Dienste nicht gestattet."
+        },
+  
+        "4": {
+          "title": "4. Daten und Datenschutz",
+          "content": "Unsere Website erfordert keine Benutzerregistrierung und ermöglicht diese auch nicht. Daher erheben wir keine persönlichen Benutzerdaten durch Kontoerstellung oder -verwaltung. Sie können auf unsere Website anonym zugreifen und diese nutzen, ohne persönliche Daten anzugeben. Weitere Informationen zu unseren Datenschutzpraktiken finden Sie in unserer Datenschutzerklärung."
+        },
+        "5": {
+          "title": "5. Rechte an geistigem Eigentum",
+          "content": "Die auf dieser Website befindlichen Inhalte, Logos, Grafiken, Markenzeichen und anderes geistiges Eigentum sind Eigentum von mygaminggalaxyoder werden mit Genehmigung ihrer rechtmäßigen Eigentümer verwendet. Alle Inhalte unterliegen dem Urheberrecht, Markenrecht und anderen Rechten an geistigem Eigentum gemäß nationalen und internationalen Urheberrechtsgesetzen.",
+          "restrictions": [
+            "Inhalte reproduzieren, verbreiten oder modifizieren",
+            "Abgeleitete Werke erstellen",
+            "Öffentlich darstellen oder aufführen",
+            "Material neu veröffentlichen, herunterladen, speichern oder übertragen"
+          ],
+          "note": "Alle Handlungen erfordern eine vorherige schriftliche Genehmigung von MyGamingGalaxy."
+        },
+        "6": {
+          "title": "6. Benutzerverhalten",
+          "content": "Durch die Nutzung dieser Website verpflichten Sie sich zu respektvollem und rechtmäßigem Verhalten.",
+          "prohibited_actions": [
+            "Ausführung illegaler Aktivitäten über diese Website",
+            "Störung oder Beeinträchtigung der Funktionalität der Website",
+            "Sich als andere Person ausgeben oder Ihre Identität falsch darstellen",
+            "Anstößige, unangemessene oder schädliche Inhalte veröffentlichen"
+          ]
+        },
+        "7": {
+          "title": "7. Externe Links",
+          "content": "Unsere Website kann Links zu Websites oder Diensten Dritter enthalten, die nicht im Besitz von mygaminggalaxysind oder von diesem kontrolliert werden. Wir haben keine Kontrolle über die Inhalte, Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter und übernehmen dafür keine Verantwortung. Sie erkennen an und stimmen zu, dass mygaminggalaxyweder direkt noch indirekt für Schäden oder Verluste verantwortlich oder haftbar ist, die durch die Nutzung von oder das Vertrauen auf Inhalte, Waren oder Dienstleistungen, die über solche Websites oder Dienste verfügbar sind, verursacht werden oder angeblich verursacht wurden."
+        },
+        "8": {
+          "title": "8. Haftungsbeschränkung",
+          "content": "mygaminggalaxystellt seine Dienste \"wie besehen\" zur Verfügung und gibt keine Garantien oder Zusicherungen hinsichtlich der Verfügbarkeit, Genauigkeit oder Eignung der Website für bestimmte Zwecke. Wir haften nicht für Schäden, die aus der Nutzung der Website entstehen können, einschließlich indirekter oder zufälliger Schäden, selbst wenn wir auf die Möglichkeit solcher Schäden hingewiesen wurden."
+        },
+        "9": {
+          "title": "9. Änderungen und Anpassungen",
+          "content": "mygaminggalaxybehält sich das Recht vor, diese Bedingungen von Zeit zu Zeit nach eigenem Ermessen zu überarbeiten. Sie sind verpflichtet, diese Bedingungen regelmäßig zu überprüfen, um sicherzustellen, dass Sie alle Bedingungen für die Nutzung dieser Website verstehen. mygaminggalaxykann Sie über diese Änderungen durch Veröffentlichung der aktualisierten Bedingungen auf der Website informieren. Ihre weitere Nutzung der Website nach solchen Änderungen stellt Ihre Annahme der geänderten Bedingungen dar."
+        },
+        "10": {
+          "title": "10. Kündigung",
+          "content": "Wir behalten uns das Recht vor, Ihren Zugang zur Website jederzeit ohne vorherige Ankündigung zu beenden oder einzuschränken, wenn Sie gegen diese Bedingungen verstoßen. Bei Kündigung müssen Sie die Nutzung der Website einstellen und alle von ihr erhaltenen Materialien vernichten."
+        },
+        "11": {
+          "title": "11. Geltendes Recht",
+          "content": "Diese Allgemeinen Geschäftsbedingungen unterliegen den Gesetzen der Jurisdiktion, in der mygaminggalaxytätig ist. Alle rechtlichen Streitigkeiten, die sich aus diesen Bedingungen ergeben, werden ausschließlich vor den Gerichten dieser Jurisdiktion verhandelt."
+        },
+        "12": {
+          "title": "12. Kontaktinformationen",
+          "content": "Wenn Sie Fragen oder Bedenken bezüglich dieser Bedingungen haben, kontaktieren Sie uns bitte unter support@mygaminggalaxy.com"
+        }
+      }
+    },
+  
+    "cookiePolicy": {
+      "title": "Cookie-Richtlinie",
+      "content": "Diese Cookie-Richtlinie erklärt, wie mygaminggalaxy.com Cookies und ähnliche Technologien verwendet, um Sie beim Besuch unserer Website zu erkennen. Sie erklärt, was diese Technologien sind und warum wir sie verwenden, sowie Ihre Rechte zur Kontrolle unserer Nutzung dieser Technologien.",
+      "title02": "Was sind Cookies?",
+      "content02": "Cookies sind kleine Datendateien, die auf Ihrem Computer oder mobilen Gerät platziert werden, wenn Sie eine Website besuchen. Cookies werden von Website-Betreibern weithin verwendet, um ihre Websites funktionsfähig zu machen oder effizienter arbeiten zu lassen sowie um Berichtsinformationen bereitzustellen."
+    },
+  
+    "disclaimer": {
+      "title": "HAFTUNGSAUSSCHLUSS +18",
+      "text": "mygaminggalaxy.com ist eine Social-Gaming-Plattform, die ausschließlich für Unterhaltungszwecke entwickelt wurde. Die auf dieser Website verfügbaren Spiele sind völlig kostenlos und bieten keine Möglichkeiten, echtes Geld oder wertvolle Preise zu gewinnen. Diese Plattform unterstützt, ermutigt oder ermöglicht keine Form von Echtgeld-Glücksspiel, Wetten oder Spielen. Bitte beachten Sie, dass alle Erfolge und Leistungen in unseren Spielen rein virtuell sind und keine Hinweise auf zukünftige Ergebnisse bei echten Glücksspielaktivitäten geben. Die auf freereelsforplay.com bereitgestellten Inhalte sind nur für Benutzer ab 18 Jahren geeignet. Durch den Zugriff auf und die Nutzung dieser Website bestätigen Sie, dass Sie mindestens 18 Jahre alt sind und stimmen zu, unsere Nutzungsbedingungen einzuhalten, einschließlich der Anerkennung der in diesem Haftungsausschluss dargelegten Bedingungen."
+    },
+    "casinogames": {
+      "text01": "Auf einem sechseckigen Spielfeld ist es Ihr Ziel, Diamanten-, Blumen- oder Honig-Cluster in Gruppen von fünf oder mehr zu entfernen, um zu gewinnen. Es gibt eine Zufalls-Wild-Funktion, die jederzeit aktiviert werden kann und zwei bis vier Wild-Symbole an zufälligen Stellen auf dem Spielfeld platziert, um eine zusätzliche Gewinnchance zu bieten. Sticky Wilds Wenn Sticky Wilds Teil eines gewinnbringenden Clusters sind, bleiben sie an Ort und Stelle und bewegen sich zur niedrigsten freien Position im Cluster. Dies kann diagonal (links oder rechts) oder direkt nach unten erfolgen. Das ist definitiv ein Wild-Symbol, das sich zu behalten lohnt! Sticky Wilds bleiben so lange an ihrem Platz, bis sie Teil eines gewinnbringenden Clusters in einem der unteren sieben Felder sind. Wenn dies geschieht, fallen sie in den Honigtopf – wodurch sich Ihr Multiplikator um eins erhöht.",
+  
+      "text02": "Cats & Cash enthält ein Wild-Symbol (der Showmaster), ein Scatter-Symbol (der Goldfisch) und zwei Bonus-Symbole (das Rad und die Box). Das Wild-Symbol ersetzt alle anderen Walzensymbole außer dem Goldfisch, dem Rad und der Box und wird verwendet, um Gewinnkombinationen zu bilden. Eine Gewinnkombination mit einem Wild-Symbol zahlt den doppelten normalen Gewinn. Zwei oder mehr Scatter-Symbole an beliebiger Stelle auf den Walzen ergeben einen Gewinn. Bei Cats & Cash aktivieren drei oder mehr Radsymbole auf einer aktiven Linie die Glücksrad-Bonusrunde. Drei oder mehr Box-Symbole auf einer aktiven Linie aktivieren die Wähle-eine-Box-Bonusrunde.",
+  
+      "text03": "Der Osterhase stirbt vor Freude, Sie in Easter Eggs zu verwöhnen, einem frischen, neuen erstklassigen Slot von Play'n GO. Aktivieren Sie bis zu 20 Linien, und die Jagd nach Frühlingsfreuden beginnt, während Sie durch die Tulpen und Narzissen schleichen. Reihen Sie gefiederte und pelzige Bauernhoftiere aneinander, während Sie das wilde Goldene Ei verfolgen, eine Zutat, die den Wert jeder Gewinnkombination, zu der sie beiträgt, garantiert vervielfacht – kein Scherz! Sie können Ihre Gewinne auch in der optionalen Gambling-Runde vervielfachen, indem Sie die Farbe oder das Symbol einer geheimen Karte erraten. Finden Sie drei bonbongefüllte Eier verstreut auf den Walzen, um eine Anzahl von Freispielen zu gewinnen, bei denen Sie wählen können, ob die Gewinne verdoppelt, verdreifacht oder versechsfacht werden! Entdecken Sie drei liebliche Osterkörbe, um süße Bonusgewinne zu knacken. Aber Vorsicht vor den schlechten Eiern! Wenn es um Spaß geht, ist Easter Eggs genau das Richtige.",
+  
+      "text04": "Betreten Sie eine Welt der Magie in Rise of Merlin, dem neuesten Titel der Slot-Spezialisten Play'n GO! Basierend auf dem legendären Zauberer aus der arthurischen Sage folgt Rise of Merlin dem Zauberer in seinen jüngeren Tagen, bevor er zur mythischen Figur wurde, als die er heute bekannt ist. Das Spiel ist auf einem 5x3-Raster-Slot aufgebaut, und Sie müssen lediglich 3 oder mehr Symbole über eine der zehn Gewinnlinien kombinieren, um einen Gewinn zu erzielen! Merlins mystische Magische Kugel ist sowohl das Wild- als auch das Scatter-Symbol in diesem Spiel, was bedeutet, dass sie nicht nur für jedes andere Symbol einspringen kann, um Gewinnlinien zu erstellen, sondern auch verwendet werden kann, um die Freispiel-Funktion des Spiels auszulösen. Freispiele können ausgelöst werden, indem Sie 3 oder mehr Magische Kugeln an beliebiger Stelle auf den Walzen landen, und Sie erhalten acht Freispiele sowie eine Auszahlung für die Anzahl der Scatter auf den Walzen. Sie können die Freispiele jederzeit neu auslösen und erhalten jedes Mal weitere acht Spiele.",
+  
+      "text05": "Sehen Sie, wie sich die Geschichte mit jedem Dreh entfaltet. Kommandanten sitzen an der Seite der Walzen und erscheinen, sobald eine bestimmte Anzahl von Symbolen durch gewinnbringende Cluster gesammelt wurde, bis sie schließlich gegen 'Baron Fusco' kämpfen. Jeder Charakter bietet eine neue Möglichkeit, den Spielern zu helfen, ihr maximales Potenzial zu erreichen, sei es durch das Hinzufügen von Wilds zum Raster oder durch die Transformation von Symbolen. Anstatt einfach zu kaskadieren, werden Kriegsschiffe am unteren Rand des Rasters animiert und beschießen Symbole auf dem Raster, um sie zu entfernen, was geschickt zum Thema passt. Ein klassischer Raster-Slot mit kaskadierenden Symbolen, der keineswegs typisch ist, da wir Innovationen auf die nächste Stufe gehoben haben, wo Features und Erzählung in diesem dynamischen Titel aufeinandertreffen. Volle Kraft voraus!"
+    }
+  }
+  

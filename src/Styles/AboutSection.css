@@ -1,0 +1,70 @@
+/* AboutUs.css */
+
+.about-section {
+    padding: 64px 0;
+    border-top: 1px solid #e0e0e0;
+  }
+  
+  .about-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .about-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #5a1e96;
+    margin-bottom: 24px;
+  }
+  
+  .about-description {
+    margin-bottom: 48px;
+    color: #666;
+    line-height: 1.6;
+    font-size: 1.1rem;
+  }
+  
+  .mission-vision-container {
+    display: flex;
+    gap: 48px;
+  }
+  
+  .mission-container,
+  .vision-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .mission-icon,
+  .vision-icon {
+    margin-bottom: 16px;
+  }
+  
+  .mission-title,
+  .vision-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #5a1e96;
+    margin-bottom: 16px;
+  }
+  
+  .mission-text,
+  .vision-text {
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  /* Media query for responsive design */
+  @media (max-width: 768px) {
+    .mission-vision-container {
+      flex-direction: column;
+      gap: 32px;
+    }
+    
+    .about-description {
+      margin-bottom: 32px;
+    }
+  }

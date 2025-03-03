@@ -1,0 +1,85 @@
+/* ContactForm.css */
+
+.contact-form-container {
+  padding: 30px 0;
+  width: 90%;
+  margin: auto;
+}
+
+.flexcontact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.contact-title {
+  color: white;
+  font-size: 30px;
+  margin:20px 0;
+  text-align: center;
+}
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+.form-group input {
+  padding: 30px 15px;
+  outline: none;
+  border: 1px solid #ffb84c;
+  min-width: 500px;
+}
+
+input,
+textarea {
+  padding: 0.5rem;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn{
+  padding: 15px 20px;
+  background-color: #ffb84c;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 200px;
+}
+
+.btn:hover {
+  background-color: #ffb74ccf;
+}
+
+@media screen and (max-width: 900px) {
+.flex{
+  flex-direction: column;
+}
+.form-group input {
+  min-width: 100%;
+}
+.contact-title{
+  font-size: 20px;
+}
+.contact-form{
+  margin:0;
+  width: 100%;
+}
+.form-group{
+  width: 100%;
+}
+.contact-form .btn{
+  width: 100%;
+}
+.contact-form-container{
+  width: 100%;
+}
+
+}

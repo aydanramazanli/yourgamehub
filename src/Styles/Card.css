@@ -1,0 +1,36 @@
+.about-text-content{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 20px;
+width: 80%;
+margin: auto;
+}
+
+.about-text-info{
+    background-color: white;
+
+    padding: 15px 25px;
+    border-radius: 10px;
+    min-height: 250px;
+    
+}
+.card-title{
+    color:#FFB84C;
+    font-weight: 300;
+    font-size:26px;
+    margin: 15px 0;
+
+}
+.card-text{
+color:black;
+font-size: 18px;
+
+}
+@media screen and (max-width: 1000px) {
+  
+
+    .about-text-content {
+        grid-template-columns: repeat(1,1fr);
+    }
+  }
+  

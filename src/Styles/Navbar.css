@@ -1,0 +1,237 @@
+.navbar-section {
+    padding: 15px 32px;
+    z-index: 9999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+.navbar-title a {
+    color:#FFB84C;
+    letter-spacing: .6px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.language-selection{
+    display: flex;
+}
+.language-selection li {
+    margin:0 5px;
+    color:white;
+    border-bottom:1px solid #FFB84C;
+    cursor: pointer;
+ 
+}
+/* Style for the dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+/* You can adjust the width as needed */
+    text-align: left;
+  }
+  
+  /* Style for the displayed selected item */
+  .selectedItem {
+
+    background-color: transparent; /* Light grey background */
+    border: 2px solid #FFB84C; /* Light grey border */
+    cursor: pointer; /* Indicates this is clickable */
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Spreads out the content to full width */
+  }
+  
+  .selectedItem h3 {
+    margin: 0; /* Removes default margin from h3 */
+  }
+  
+  .selectedItem img {
+    width: 40px; /* Fixed width for consistency */
+    height: auto;
+  }
+  
+  /* Style when the dropdown is open */
+ .dropdown-ul {
+    position: absolute;
+    width: 100%; /* Match the width of the dropdown */
+    background-color: transparent; /* White background for dropdown items */
+    border: 1px solid #ccc; /* Consistent with selectedItem border */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Subtle shadow for dropdown */
+    padding-left: 0; /* Remove default padding */
+    margin-top: 2px; /* Small gap between selectedItem and dropdown */
+    z-index: 1000; /* Ensures the dropdown appears on top of other content */
+  }
+  
+  .dropdown-ul li {
+    list-style: none; /* Remove default list styling */
+
+    cursor: pointer; /* Indicates these are clickable */
+    display: flex;
+    align-items: center;
+  }
+  
+  .dropdown-ul li:hover {
+    background-color:#FFB84C; /* Light grey background on hover */
+  }
+  
+  .dropdown-ul li h3 {
+    margin: 0 10px 0 0;
+    font-size: 14px; 
+    color:white/* Space between text and image */
+  }
+  
+  .dropdown-ul li img {
+    width: 40px; /* Ensures images in dropdown items match the selectedItem */
+    margin-left: auto; /* Pushes the image to the right */
+  }
+  
+
+.selectedItem h3{ 
+    color:white;
+margin: 0 5px;
+font-size: 14px;
+}
+.selectedItem img{ 
+ width: 40px;
+ height: 35px;
+    
+}
+
+.navbar-items {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+   
+}
+.navbar-items > li {
+    list-style-type: none;
+}
+.navbar-links {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    letter-spacing: .8px;
+
+}
+.scrolled{
+    background: #150035;
+}
+.navbar-links:hover {
+    color: #FFB84C;
+}
+
+.logo-link img{
+    width: 100%;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 30%;
+  
+}
+.navbar-btn {
+    padding: 14px 20px;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 28px;
+    outline: transparent;
+    background-color: #FFB84C;
+    font-size: 18px;
+   
+    letter-spacing: .8px;
+    cursor: pointer;
+    transition: all .4s ease;
+    text-decoration: none;
+}
+
+.navbar-btn:hover {
+    color: #FFB84C;
+    background-color: white;
+    border: 1px solid #FFB84C;
+}
+/* Hamburger Icon */
+.mobile-nav {
+    display: none;
+}
+.hamb-icon {
+    width: 26px;
+    height: 26px;
+    cursor: pointer;
+}
+.hamb-icon:hover {
+    color: #FFB84C;
+}
+/* Mobile Navbar */
+.mobile-navbar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50vh;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    background-color: white;
+    z-index: 20;
+    justify-content: center;
+    align-items: center;
+    transition: left .5s ease-in-out;
+    color:#FFB84C;
+}
+.mobile-navbar-close {
+    position: absolute;
+    top: 28px;
+    right: 28px;
+}
+.mobile-navbar-close .hamb-icon:hover {
+    color: BLACK;
+}
+.open-nav {
+    left: 0;
+}
+.mobile-navbar-links {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    gap: 24px;
+    text-align: center;
+}
+.mobile-navbar-links li a {
+    text-decoration: none;
+    color: #FFB84C;;
+    
+    font-weight: bold;
+    letter-spacing: .8px;
+    transition: color .3s ease-in-out;
+}
+.mobile-navbar-links li a:hover {
+    color: #FFB84C;
+}
+.mob-lang-list{
+    display: flex;
+    align-items: center;
+}
+.mob-lang-list h3{
+   font-size: 16px;
+   margin:0 5px
+}
+
+.mob-lang-list img{
+width: 30px;
+ }
+
+/* Responsive */
+@media screen and (max-width: 900px) {
+    .navbar-btn, .navbar-items {
+        display: none;
+    }
+    .mobile-nav {
+        display: block;
+        color:#FFB84C;
+    }
+}

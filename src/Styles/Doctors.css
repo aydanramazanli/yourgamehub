@@ -1,0 +1,80 @@
+.doctor-section {
+  padding: 32px;
+  margin: 70px 0;
+  text-align: center;
+  color: white;
+}
+.dt-title-content {
+  margin: 0 0 64px 0;
+}
+.dt-title {
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+}
+
+
+/* Doctor Cards */
+.dt-cards-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.dt-card {
+  display: flex;
+  margin:20px 0;
+  align-items: center;
+}
+.dt-card-img {
+  width: 450px;
+  height: 275px;
+  padding: 16px 32px 0;
+  object-fit: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+.dt-card-name {
+  margin: 12px 0 0 0;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 0.7px;
+  text-align: center;
+}
+.dt-card-title {
+  margin: 6px 0 8px;
+  color: rgba(255, 255, 255, 0.757);
+  text-align: center;
+  font-size: 16px;
+  letter-spacing: 0.7px;
+}
+
+.description{
+margin:0 15px;
+}
+/* Responsive */
+@media screen and (max-width: 700px) {
+  .dt-title {
+    font-size: 32px;
+  }
+  .dt-title-content{
+    margin:150px 0 0 0;
+  }
+  .dt-description {
+    margin: 48px 0 0;
+    font-size: 18px;
+  }
+  .dt-card {
+  flex-direction: column;
+  }
+  .dt-card img{
+height: 300px;
+width: 300px;
+   }
+  .dt-card-title {
+    font-size: 12px;
+  }
+  .doctor-section {
+    padding: 0;
+    margin: 10px;
+  }
+}
