@@ -13,6 +13,7 @@ import Contact from "./Pages/Contact";
 import PlayGame from "./Pages/PlayGame";
 import Cookies from "./Pages/Cookies";
 import CookieConsent from "react-cookie-consent";
+import AnimatedBackground from "./Components/Animation";
 
 // function loadGTM() {
 //   const script = document.createElement("script");
@@ -72,6 +73,7 @@ function App() {
        
       </Router>
     </div>
+
   );
 }
 

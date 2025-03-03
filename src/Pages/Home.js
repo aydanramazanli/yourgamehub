@@ -6,6 +6,7 @@ import Contact from "../Components/Contact";
 import Disclaimer from "../Components/Desclaimer";
 import ServicesSection from "../Components/Service";
 import AboutSection from "../Components/AboutSection";
+import Animation from "../Components/Animation";
 
 function Home() {
   useEffect(() => {
@@ -14,14 +15,16 @@ function Home() {
   return (
     <>
       <Heros />
-
-      <About />
+<Animation>
+<About />
       <Games />
       <ServicesSection/>
       <AboutSection />
 
       <Contact />
       <Disclaimer />
+</Animation>
+    
 
     </>
   );
