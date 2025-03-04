@@ -15,17 +15,15 @@ function Home() {
   return (
     <>
       <Heros />
-<Animation>
-<About />
-      <Games />
-      <ServicesSection/>
-      <AboutSection />
+      <Animation>
+        <About />
+        <Games />
+        <ServicesSection />
+        <AboutSection />
 
-      <Contact />
-      <Disclaimer />
-</Animation>
-    
-
+        <Contact />
+        <Disclaimer />
+      </Animation>
     </>
   );
 }

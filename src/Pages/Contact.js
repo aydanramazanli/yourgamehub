@@ -33,7 +33,7 @@ const Contact = () => {
       <h2 className='contact-title'>If you have any questions, don't hesitate to contact us </h2>
       <div style={{color:'white',display:"flex", alignItems:"center", justifyContent:"center" ,margin:'15px 0'}}>
         <h3 className=''>
-        support@mygaminggalaxy.com
+        support@YourGameHub.com
         </h3>
 
       </div>

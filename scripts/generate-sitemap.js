@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { SitemapStream, streamToPromise } = require('sitemap');
 
-const sitemapStream = new SitemapStream({ hostname: 'https://mygaminggalaxy.com/' });
+const sitemapStream = new SitemapStream({ hostname: 'https://YourGameHub.com/' });
 const writeStream = fs.createWriteStream('./build/sitemap.xml');
 sitemapStream.pipe(writeStream);
 

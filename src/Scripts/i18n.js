@@ -1,7 +1,6 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 import enTranslation from "./en.json"
-import plTranslation from "./pl.json"
 import geTranslation from './ge.json'
 
 i18n

@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
-import logo from "../Assets/output.webp";
 import LazyLoad from "react-lazyload";
 import i18n from "../Scripts/i18n";
 import azerbaijanFlag from "../Assets/en.png";
